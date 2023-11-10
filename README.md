@@ -58,8 +58,6 @@
 <div align=center>
   <figure><img width=390 height="160em" src="https://github-readme-stats.vercel.app/api?username=anonimoDoGithub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></figure>
   <figure><img width=390 height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimoDoGithub&layout=compact&langs_count=7&theme=dracula"/></figure>
-  <br/>
-  <img width=325 height="160em" align="center" src="https://github-readme-stats-anonimoDoGithub.vercel.app/api/top-langs/?username=anonimoDoGithub&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
