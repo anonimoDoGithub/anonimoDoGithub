@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chat app**.
  
- 🌱 I’m currently learning **Tailwind, JavaScript, NextJs, GoLang**.
+ 🌱 I’m currently learning **Tailwind, JavaScript, NextJs, GoLang, Rust**.
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**.
  
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,vercel" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,go" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,go,rust" /><br>
     <img src="https://skillicons.dev/icons?i=sass,tailwind,typescript,next,nodejs" /><br>
 </div>
 
