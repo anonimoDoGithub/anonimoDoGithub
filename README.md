@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Tailwind, JavaScript, NextJs, GoLang, Rust**.
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**.
+ ⚡ Fun fact **The best anime of all time, Yu Yu Hakusho!**.
  
 </div>
 
